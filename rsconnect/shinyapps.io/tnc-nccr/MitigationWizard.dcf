@@ -1,0 +1,9 @@
+name: MitigationWizard
+account: tnc-nccr
+server: shinyapps.io
+appId: 149511
+bundleId: 692414
+url: https://tnc-nccr.shinyapps.io/MitigationWizard/
+when: 1485479676.0638
+asMultiple: FALSE
+asStatic: FALSE
